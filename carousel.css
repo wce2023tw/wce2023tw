@@ -27,7 +27,7 @@ body {
   height: 32rem;
 }
 .carousel-item > img {
-  background-size: auto;
+  /* background-size: auto; */
   position: absolute;
   top: 0;
   left: 0;
